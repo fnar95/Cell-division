@@ -1,0 +1,8 @@
+{
+  "name": "Remix Need for Science – سباق انقسام الخلايا",
+  "description": "لعبة سباق سيارات تعليمية ثلاثية الأبعاد مستوحاة من Need for Speed لتعليم درس انقسام الخلايا لطلاب الصف الثالث المتوسط - إعداد وتصميم المعلم: فاضل المبارك",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
